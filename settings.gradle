@@ -1,0 +1,2 @@
+include ':app', ':boot', ':LibMarsdaemon'
+rootProject.name='DoubleAppKeepAliveDemo'
